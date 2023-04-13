@@ -1,5 +1,5 @@
-Projet Pokédex Android
-Description
+Projet Pokédex Android.
+Description:
 Le projet Pokédex Android est une application Android qui permet aux utilisateurs de rechercher et de consulter des informations sur les différents Pokémon existants. L'application utilise une API pour récupérer les données des Pokémon, telles que leur nom, leur image, leur type, leur description, leurs statistiques, leurs mouvements, leurs évolutions et bien plus encore.
 
 L'application offre une interface utilisateur conviviale et facile à naviguer, où les utilisateurs peuvent découvrir et explorer de nouveaux Pokémon, ajouter des Pokémon à leur liste de favoris, filtrer les résultats par type ou par nom, rechercher un Pokémon spécifique et accéder à des informations détaillées sur chaque Pokémon, y compris leurs caractéristiques, leur histoire, leur élevage et leur évolution.
